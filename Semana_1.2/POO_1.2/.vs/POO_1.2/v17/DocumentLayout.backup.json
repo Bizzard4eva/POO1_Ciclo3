@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{287B678F-D841-43C2-A768-633342B68780}|POO_Ex3\\POO_Ex3.csproj|D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\poo_ex3\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{287B678F-D841-43C2-A768-633342B68780}|POO_Ex3\\POO_Ex3.csproj|solutionrelative:poo_ex3\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287B678F-D841-43C2-A768-633342B68780}|POO_Ex3\\POO_Ex3.csproj|d:\\cibertec 3 ciclo\\programacion orientada a objetos i\\semana1.2\\poo_1.2\\poo_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287B678F-D841-43C2-A768-633342B68780}|POO_Ex3\\POO_Ex3.csproj|solutionrelative:poo_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287B678F-D841-43C2-A768-633342B68780}|POO_Ex3\\POO_Ex3.csproj|d:\\cibertec 3 ciclo\\programacion orientada a objetos i\\semana1.2\\poo_1.2\\poo_ex3\\excepcionpersonalidada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287B678F-D841-43C2-A768-633342B68780}|POO_Ex3\\POO_Ex3.csproj|solutionrelative:poo_ex3\\excepcionpersonalidada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287B678F-D841-43C2-A768-633342B68780}|POO_Ex3\\POO_Ex3.csproj|D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\poo_ex3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287B678F-D841-43C2-A768-633342B68780}|POO_Ex3\\POO_Ex3.csproj|solutionrelative:poo_ex3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 211,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\POO_Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "POO_Ex3\\Program.cs",
+              "ToolTip": "D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\POO_Ex3\\Program.cs",
+              "RelativeToolTip": "POO_Ex3\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T02:36:09.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExcepcionPersonalidada.cs",
+              "DocumentMoniker": "D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\POO_Ex3\\ExcepcionPersonalidada.cs",
+              "RelativeDocumentMoniker": "POO_Ex3\\ExcepcionPersonalidada.cs",
+              "ToolTip": "D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\POO_Ex3\\ExcepcionPersonalidada.cs",
+              "RelativeToolTip": "POO_Ex3\\ExcepcionPersonalidada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:13:40.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\POO_Ex3\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "POO_Ex3\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\POO_Ex3\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "POO_Ex3\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T02:50:09.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "log4net.config",
+              "DocumentMoniker": "D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\POO_Ex3\\log4net.config",
+              "RelativeDocumentMoniker": "POO_Ex3\\log4net.config",
+              "ToolTip": "D:\\CIBERTEC 3 CICLO\\Programacion Orientada a Objetos I\\Semana1.2\\POO_1.2\\POO_Ex3\\log4net.config",
+              "RelativeToolTip": "POO_Ex3\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-11T02:45:17.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\CIBERTEC 3 CICLO\Programacion Orientada a Objetos I\Semana1.2\POO_1.2\POO_1.2\bin\Debug\POO_1.2.exe.config
+D:\CIBERTEC 3 CICLO\Programacion Orientada a Objetos I\Semana1.2\POO_1.2\POO_1.2\bin\Debug\POO_1.2.exe
+D:\CIBERTEC 3 CICLO\Programacion Orientada a Objetos I\Semana1.2\POO_1.2\POO_1.2\bin\Debug\POO_1.2.pdb
+D:\CIBERTEC 3 CICLO\Programacion Orientada a Objetos I\Semana1.2\POO_1.2\POO_1.2\obj\Debug\POO_S12.csproj.AssemblyReference.cache
+D:\CIBERTEC 3 CICLO\Programacion Orientada a Objetos I\Semana1.2\POO_1.2\POO_1.2\obj\Debug\POO_S12.csproj.CoreCompileInputs.cache
+D:\CIBERTEC 3 CICLO\Programacion Orientada a Objetos I\Semana1.2\POO_1.2\POO_1.2\obj\Debug\POO_1.2.exe
+D:\CIBERTEC 3 CICLO\Programacion Orientada a Objetos I\Semana1.2\POO_1.2\POO_1.2\obj\Debug\POO_1.2.pdb
