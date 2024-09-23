@@ -1,7 +1,0 @@
-D:\CIBERTEC_3_CICLO\Programacion_Orientada_a_Objetos_I\Tareas\Tarea01\Tarea01\obj\Debug\Tarea01.csproj.AssemblyReference.cache
-D:\CIBERTEC_3_CICLO\Programacion_Orientada_a_Objetos_I\Tareas\Tarea01\Tarea01\obj\Debug\Tarea01.csproj.CoreCompileInputs.cache
-D:\CIBERTEC_3_CICLO\Programacion_Orientada_a_Objetos_I\Tareas\Tarea01\Tarea01\bin\Debug\Tarea01.exe.config
-D:\CIBERTEC_3_CICLO\Programacion_Orientada_a_Objetos_I\Tareas\Tarea01\Tarea01\bin\Debug\Tarea01.exe
-D:\CIBERTEC_3_CICLO\Programacion_Orientada_a_Objetos_I\Tareas\Tarea01\Tarea01\bin\Debug\Tarea01.pdb
-D:\CIBERTEC_3_CICLO\Programacion_Orientada_a_Objetos_I\Tareas\Tarea01\Tarea01\obj\Debug\Tarea01.exe
-D:\CIBERTEC_3_CICLO\Programacion_Orientada_a_Objetos_I\Tareas\Tarea01\Tarea01\obj\Debug\Tarea01.pdb
