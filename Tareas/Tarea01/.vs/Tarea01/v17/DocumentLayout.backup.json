@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CIBERTEC_3_CICLO\\Programacion_Orientada_a_Objetos_I\\Tareas\\Tarea01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E120FBD4-FDDB-457C-BF46-54BD82B7D09D}|Tarea01\\Tarea01.csproj|d:\\cibertec_3_ciclo\\programacion_orientada_a_objetos_i\\tareas\\tarea01\\tarea01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E120FBD4-FDDB-457C-BF46-54BD82B7D09D}|Tarea01\\Tarea01.csproj|solutionrelative:tarea01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E120FBD4-FDDB-457C-BF46-54BD82B7D09D}|Tarea01\\Tarea01.csproj|d:\\cibertec_3_ciclo\\programacion_orientada_a_objetos_i\\tareas\\tarea01\\tarea01\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E120FBD4-FDDB-457C-BF46-54BD82B7D09D}|Tarea01\\Tarea01.csproj|solutionrelative:tarea01\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CIBERTEC_3_CICLO\\Programacion_Orientada_a_Objetos_I\\Tareas\\Tarea01\\Tarea01\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea01\\Program.cs",
+              "ToolTip": "D:\\CIBERTEC_3_CICLO\\Programacion_Orientada_a_Objetos_I\\Tareas\\Tarea01\\Tarea01\\Program.cs",
+              "RelativeToolTip": "Tarea01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:54:30.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "D:\\CIBERTEC_3_CICLO\\Programacion_Orientada_a_Objetos_I\\Tareas\\Tarea01\\Tarea01\\Docente.cs",
+              "RelativeDocumentMoniker": "Tarea01\\Docente.cs",
+              "ToolTip": "D:\\CIBERTEC_3_CICLO\\Programacion_Orientada_a_Objetos_I\\Tareas\\Tarea01\\Tarea01\\Docente.cs",
+              "RelativeToolTip": "Tarea01\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:39:25.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
